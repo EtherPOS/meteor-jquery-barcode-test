@@ -15,4 +15,4 @@ Running
 
 Usage
 ======
-* See [Meteor JQuery BarCode on Atmosphere](https://atmosphere.meteor.com) for usage.
+* See [Meteor JQuery BarCode on Atmosphere](https://atmosphere.meteor.com/package/jquery-barcode) for usage.
