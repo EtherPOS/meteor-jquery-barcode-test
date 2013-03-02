@@ -5,7 +5,9 @@ Test for Meteor.js meteorite/atmosphere jquery smart package for creating barcod
 
 By @ [EtherPOS](http://www.etherpos.com/ "EtherPOS")
 
-Git jquery-barcode @ [Github jquery-barcode](https://github.com/EtherPOS/meteor-jquery-barcode, "jquery-barcode")
+See [jquery-barcode-test](http://jquery-barcode-test.meteor.com)
+
+Git [jquery-barcode](https://github.com/EtherPOS/meteor-jquery-barcode)
 
 Running
 ========
@@ -13,4 +15,4 @@ Running
 
 Usage
 ======
-* See [Meteor JQuery BarCode on Atmosphere](https://atmosphere.meteor.com, "jquery-barcode @ atmosphere") for usage.
+* See [Meteor JQuery BarCode on Atmosphere](https://atmosphere.meteor.com) for usage.
